@@ -13,6 +13,7 @@ width: 90%;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
    
 }
 
@@ -25,7 +26,7 @@ section{
 }
 
 .my-img img{
-    width: 80%;
+    width: 90%;
 }
 
 .link-btn button{
@@ -43,4 +44,11 @@ section{
 .top-banner{
     background-image: url(../img/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.big-dream{
+    background-image: url(../img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
